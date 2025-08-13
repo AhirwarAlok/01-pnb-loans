@@ -3,3 +3,18 @@ test1
 
 
 test2 
+
+
+
+
+
+
+
+
+
+
+
+
+// task 102
+test method102{
+}
