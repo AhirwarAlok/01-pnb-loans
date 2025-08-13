@@ -7,3 +7,7 @@ test2
 
 
 fetch example
+
+
+
+fetch example 2
