@@ -4,21 +4,3 @@ test1
 
 test2 
 
-<<<<<<< HEAD
-String name ="test 3" ;
-=======
-
-
-
-
-
-
-
-
-
-
-
-// task 102
-test method102{
-}
->>>>>>> 0cdc3976627be13e146f0167d8ad052da0bb2e1d
